@@ -14,5 +14,5 @@
 #   Test Package:              'Ctrl + Shift + T'
 #' @export
 hello <- function() {
-  print("Hello, world!")
+  print("bye world!")
 }
